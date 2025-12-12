@@ -12,4 +12,7 @@ execute:
 ---
 
 [Lab 5](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu007.unity.rc.umass.edu/42007/files/Lab_5_Cooper.html)
-[Lab 13](Lab_13_Cooper.qmd)
+
+[Lab 13](Lab_13_Cooper.html)
+
+[Lab 13](Lab_13_Cooper.html)
